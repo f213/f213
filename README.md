@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am [Fedor Borshev](https://borshev.com), python and vue.js developer, [on-demand CTO](http://fedorandsamat.com), [educator](https://education.borshev.com), [livecoder](https://www.youtube.com/channel/UCO8aN1B8ncJM09rohGvOiCQ) and [blogger](http://t.me/pmdaily) based in Moscow, Russia.
+
+📫 Reach me out at fedor@borshev.com
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=f213)
